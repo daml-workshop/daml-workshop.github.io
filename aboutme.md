@@ -11,25 +11,15 @@ title: About me
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+I graduated in 2019 from <a target="_blank" href="http://iiitdm.ac.in/" > IIITDM Kancheepuram </a> with an Integrated Masters Degree in Computer Engineering. <!-- At university, I was involved in research on Deep Learning based methods for medical image analysis. You can take a look at my work <a target="_blank" href="https://scholar.google.com/citations?user=iIm00j0AAAAJ&hl=en"> here </a>. -->
 </p>
 
-<p class="about-text">
-<span class="fa fa-code about-icon"></span>
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-</p>
-
-<p class="about-text">
-<span class="fa fa-book about-icon"></span>
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-</p>
-
-<p class="about-text">
+<!-- <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. 
+I try to spend time cooking and trying out new recipes. I am also an avid quizzer.
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
 Let’s connect
-</p>
+</p> -->
